@@ -22,7 +22,7 @@ class Playlist {
 // Call the instance's `addSong` method to add a song to the instance's `songs` array
 // Type your solution immediately below this line:
 
-var myPlaylist = new Playlist("Netsuhe is the Best!");
+var myPlaylist = new Playlist("Netsuhe is the Best");
 
 myPlaylist.addSong("I Can by Chronix")
 
